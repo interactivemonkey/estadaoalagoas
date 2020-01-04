@@ -693,10 +693,6 @@ frameborder="0" allowfullscreen></iframe>
                                 </h3>
                             </div>
 
-
-
-
-
                 </div>
             </section>
 
@@ -727,7 +723,7 @@ frameborder="0" allowfullscreen></iframe>
                                         <a href="single-news-3.html">Not who has much is rich, but who gives much</a>
                                     </h3>
                                 </div>
-                                <img src="img/news/news66.jpg" alt="news" class="img-fluid width-100">
+                                <img src="<?php echo get_template_directory_uri() ?>/img/noticias/news66.jpg" alt="news" class="img-fluid width-100">
                             </div>
                             <ul class="border-bottom-child p-20-r h3-mb-none-child bg-body item-shadow-gray">
                                 <li>
@@ -793,7 +789,7 @@ frameborder="0" allowfullscreen></iframe>
                                         <a href="single-news-3.html">Oppo Find 7 is the world need first phone that can take</a>
                                     </h3>
                                 </div>
-                                <img src="img/news/news67.jpg" alt="news" class="img-fluid width-100">
+                                <img src="<?php echo get_template_directory_uri() ?>/img/noticias/news66.jpg" alt="news" class="img-fluid width-100">
                             </div>
                             <ul class="border-bottom-child p-20-r h3-mb-none-child bg-body item-shadow-gray">
                                 <li>
@@ -859,7 +855,7 @@ frameborder="0" allowfullscreen></iframe>
                                         <a href="single-news-3.html">Tacos ditched the naked chicken here's how to make …</a>
                                     </h3>
                                 </div>
-                                <img src="img/news/news68.jpg" alt="news" class="img-fluid width-100">
+                                <img src="<?php echo get_template_directory_uri() ?>/img/noticias/news66.jpg" alt="news" class="img-fluid width-100">
                             </div>
                             <ul class="border-bottom-child p-20-r h3-mb-none-child bg-body item-shadow-gray">
                                 <li>
@@ -908,7 +904,7 @@ frameborder="0" allowfullscreen></iframe>
                         <div class="col-12">
                             <div class="ne-banner-layout1 mt-20-r text-center">
                                 <a href="#">
-                                    <img src="img/banner/banner2.jpg" alt="ad" class="img-fluid">
+                                    <img src="<?php echo get_template_directory_uri() ?>/img/banner/banner2.jpg" alt="ad" class="img-fluid">
                                 </a>
                             </div>
                         </div>
@@ -929,12 +925,8 @@ frameborder="0" allowfullscreen></iframe>
                                         <a href="single-news-3.html">Fitness area coverded they Governed this in 2017</a>
                                     </h3>
                                 </div>
-                                <div class="text-center">
-                                    <a class="play-btn popup-youtube" href="http://www.youtube.com/watch?v=1iIZeIy7TqM">
-                                        <img src="img/banner/play.png" alt="play" class="img-fluid">
-                                    </a>
-                                </div>
-                                <img src="img/news/news61.jpg" alt="news" class="img-fluid width-100">
+
+                                <img src="<?php echo get_template_directory_uri() ?>/img/noticias/news61.jpg" alt="news" class="img-fluid width-100">
                             </div>
                         </div>
                         <div class="col-lg-8 col-md-12">
@@ -947,12 +939,8 @@ frameborder="0" allowfullscreen></iframe>
                                                 <a href="single-news-3.html">Patricia Urquiola transparent area furney Italia with iridescent</a>
                                             </h3>
                                         </div>
-                                        <div class="text-center">
-                                            <a class="play-btn popup-youtube" href="http://www.youtube.com/watch?v=1iIZeIy7TqM">
-                                                <img src="img/banner/play.png" alt="play" class="img-fluid">
-                                            </a>
-                                        </div>
-                                        <img src="img/news/news62.jpg" alt="news" class="img-fluid width-100">
+
+                                        <img src="<?php echo get_template_directory_uri() ?>/img/noticias/news64.jpg" alt="news" class="img-fluid width-100">
                                     </div>
                                 </div>
                                 <div class="col-sm-6 col-12 mb-4">
@@ -963,12 +951,8 @@ frameborder="0" allowfullscreen></iframe>
                                                 <a href="single-news-3.html">Patricia Urquiola transparent area furney Italia with iridescent</a>
                                             </h3>
                                         </div>
-                                        <div class="text-center">
-                                            <a class="play-btn popup-youtube" href="http://www.youtube.com/watch?v=1iIZeIy7TqM">
-                                                <img src="img/banner/play.png" alt="play" class="img-fluid">
-                                            </a>
-                                        </div>
-                                        <img src="img/news/news63.jpg" alt="news" class="img-fluid width-100">
+
+                                        <img src="<?php echo get_template_directory_uri() ?>/img/noticias/news64.jpg" alt="news" class="img-fluid width-100">
                                     </div>
                                 </div>
                                 <div class="col-sm-6 col-12 mb-4">
@@ -979,12 +963,8 @@ frameborder="0" allowfullscreen></iframe>
                                                 <a href="single-news-3.html">Patricia Urquiola transparent area furney Italia with iridescent</a>
                                             </h3>
                                         </div>
-                                        <div class="text-center">
-                                            <a class="play-btn popup-youtube" href="http://www.youtube.com/watch?v=1iIZeIy7TqM">
-                                                <img src="img/banner/play.png" alt="play" class="img-fluid">
-                                            </a>
-                                        </div>
-                                        <img src="img/news/news64.jpg" alt="news" class="img-fluid width-100">
+
+                                        <img src="<?php echo get_template_directory_uri() ?>/img/noticias/news64.jpg" alt="news" class="img-fluid width-100">
                                     </div>
                                 </div>
                                 <div class="col-sm-6 col-12 mb-4">
@@ -995,12 +975,8 @@ frameborder="0" allowfullscreen></iframe>
                                                 <a href="single-news-3.html">Patricia Urquiola transparent area furney Italia with iridescent</a>
                                             </h3>
                                         </div>
-                                        <div class="text-center">
-                                            <a class="play-btn popup-youtube" href="http://www.youtube.com/watch?v=1iIZeIy7TqM">
-                                                <img src="img/banner/play.png" alt="play" class="img-fluid">
-                                            </a>
-                                        </div>
-                                        <img src="img/news/news65.jpg" alt="news" class="img-fluid width-100">
+
+                                        <img src="<?php echo get_template_directory_uri() ?>/img/noticias/news64.jpg" alt="news" class="img-fluid width-100">
                                     </div>
                                 </div>
                             </div>
@@ -1019,16 +995,10 @@ frameborder="0" allowfullscreen></iframe>
                         <div class="col-lg-8 col-md-12">
                             <div class="ne-isotope">
                                 <div class="topic-border color-azure-radiance mb-30">
-                                    <div class="topic-box-lg color-azure-radiance">More News</div>
-                                    <div class="isotope-classes-tab isotop-btn">
-                                        <a href="#" data-filter=".football" class="current">Football</a>
-                                        <a href="#" data-filter=".cricket">Cricket</a>
-                                        <a href="#" data-filter=".tenies">Tenies</a>
-                                        <a href="#" data-filter=".cycling">Cycling</a>
-                                        <a href="#" data-filter=".gadget">Gadget</a>
-                                    </div>
+                                    <div class="topic-box-lg color-azure-radiance">Mais Notícias</div>
+
                                     <div class="more-info-link">
-                                        <a href="post-style-1.html">More
+                                        <a href="post-style-1.html">Mais
                                             <i class="fa fa-angle-right" aria-hidden="true"></i>
                                         </a>
                                     </div>
@@ -1040,7 +1010,7 @@ frameborder="0" allowfullscreen></iframe>
                                                 <div class="media item-shadow-gray bg-body media-none--sm">
                                                     <div class="position-relative width-36 width43-lg">
                                                         <a href="single-news-1.html" class="img-opacity-hover img-overlay-70">
-                                                            <img src="img/news/news53.jpg" alt="news" class="img-fluid">
+                                                            <img src="<?php echo get_template_directory_uri() ?>/img/noticias/news55.jpg" alt="news" class="img-fluid">
                                                         </a>
                                                         <div class="topic-box-top-xs">
                                                             <div class="topic-box-sm color-cod-gray mb-20">Football</div>
@@ -1072,7 +1042,7 @@ frameborder="0" allowfullscreen></iframe>
                                                 <div class="media item-shadow-gray bg-body media-none--sm">
                                                     <div class="position-relative width-36 width43-lg">
                                                         <a href="single-news-1.html" class="img-opacity-hover img-overlay-70">
-                                                            <img src="img/news/news54.jpg" alt="news" class="img-fluid">
+                                                            <img src="<?php echo get_template_directory_uri() ?>/img/noticias/news55.jpg" alt="news" class="img-fluid">
                                                         </a>
                                                         <div class="topic-box-top-xs">
                                                             <div class="topic-box-sm color-cod-gray mb-20">Diving</div>
@@ -1104,7 +1074,7 @@ frameborder="0" allowfullscreen></iframe>
                                                 <div class="media item-shadow-gray bg-body media-none--sm">
                                                     <div class="position-relative width-36 width43-lg">
                                                         <a href="single-news-1.html" class="img-opacity-hover img-overlay-70">
-                                                            <img src="img/news/news55.jpg" alt="news" class="img-fluid">
+                                                            <img src="<?php echo get_template_directory_uri() ?>/img/noticias/news55.jpg" alt="news" class="img-fluid">
                                                         </a>
                                                         <div class="topic-box-top-xs">
                                                             <div class="topic-box-sm color-cod-gray mb-20">Cycling</div>
@@ -1138,7 +1108,7 @@ frameborder="0" allowfullscreen></iframe>
                                                 <div class="media item-shadow-gray bg-body media-none--sm">
                                                     <div class="position-relative width-36 width43-lg">
                                                         <a href="single-news-1.html" class="img-opacity-hover img-overlay-70">
-                                                            <img src="img/news/news56.jpg" alt="news" class="img-fluid">
+                                                            <img src="<?php echo get_template_directory_uri() ?>/img/noticias/news55.jpg" alt="news" class="img-fluid">
                                                         </a>
                                                         <div class="topic-box-top-xs">
                                                             <div class="topic-box-sm color-cod-gray mb-20">Football</div>
@@ -1168,542 +1138,7 @@ frameborder="0" allowfullscreen></iframe>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="cricket" style="position: absolute; display: none;">
-                                        <div class="row">
-                                            <div class="col-md-12 col-sm-6 col-12 mb-30">
-                                                <div class="media item-shadow-gray bg-body media-none--sm">
-                                                    <div class="position-relative width-36 width43-lg">
-                                                        <a href="single-news-1.html" class="img-opacity-hover img-overlay-70">
-                                                            <img src="img/news/news55.jpg" alt="news" class="img-fluid">
-                                                        </a>
-                                                        <div class="topic-box-top-xs">
-                                                            <div class="topic-box-sm color-cod-gray mb-20">Cycling</div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="media-body media-padding30 p-mb-none-child">
-                                                        <div class="post-date-dark">
-                                                            <ul>
-                                                                <li>
-                                                                    <span>by</span>
-                                                                    <a href="single-news-1.html">Jacob</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>
-                                                                        <i class="fa fa-calendar" aria-hidden="true"></i>
-                                                                    </span>May 27, 2017</li>
-                                                            </ul>
-                                                        </div>
-                                                        <h3 class="title-semibold-dark size-lg mb-15">
-                                                            <a href="single-news-1.html">A taste of what we like this week at CookA like this current
-                                                                week
-                                                            </a>
-                                                        </h3>
-                                                        <p>Separatede in the coast of the a ocean. A small river named Duden
-                                                            flows by their place and ...
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-12 col-sm-6 col-12 mb-30">
-                                                <div class="media item-shadow-gray bg-body media-none--sm">
-                                                    <div class="position-relative width-36 width43-lg">
-                                                        <a href="single-news-1.html" class="img-opacity-hover img-overlay-70">
-                                                            <img src="img/news/news53.jpg" alt="news" class="img-fluid">
-                                                        </a>
-                                                        <div class="topic-box-top-xs">
-                                                            <div class="topic-box-sm color-cod-gray mb-20">Football</div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="media-body media-padding30 p-mb-none-child">
-                                                        <div class="post-date-dark">
-                                                            <ul>
-                                                                <li>
-                                                                    <span>by</span>
-                                                                    <a href="single-news-1.html">Jacob</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>
-                                                                        <i class="fa fa-calendar" aria-hidden="true"></i>
-                                                                    </span>May 27, 2017</li>
-                                                            </ul>
-                                                        </div>
-                                                        <h3 class="title-semibold-dark size-lg mb-15">
-                                                            <a href="single-news-1.html">Football meras on the back SepatheyTG G6 will have theytics.</a>
-                                                        </h3>
-                                                        <p>Separated they right at the coast a large ocean. A small river named
-                                                            Duden flows by their place and ...
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-12 col-sm-6 col-12 mb-30">
-                                                <div class="media item-shadow-gray bg-body media-none--sm">
-                                                    <div class="position-relative width-36 width43-lg">
-                                                        <a href="single-news-1.html" class="img-opacity-hover img-overlay-70">
-                                                            <img src="img/news/news54.jpg" alt="news" class="img-fluid">
-                                                        </a>
-                                                        <div class="topic-box-top-xs">
-                                                            <div class="topic-box-sm color-cod-gray mb-20">Diving</div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="media-body media-padding30 p-mb-none-child">
-                                                        <div class="post-date-dark">
-                                                            <ul>
-                                                                <li>
-                                                                    <span>by</span>
-                                                                    <a href="single-news-1.html">Jacob</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>
-                                                                        <i class="fa fa-calendar" aria-hidden="true"></i>
-                                                                    </span>May 27, 2017</li>
-                                                            </ul>
-                                                        </div>
-                                                        <h3 class="title-semibold-dark size-lg mb-15">
-                                                            <a href="single-news-1.html">Erik Jones has day he won’t soon forget as Denny backup at Bristol</a>
-                                                        </h3>
-                                                        <p>Separated they right at the coast a large ocean. A small river named
-                                                            Duden flows by their place and ...
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-12 col-sm-6 col-12 mb-30">
-                                                <div class="media item-shadow-gray bg-body media-none--sm">
-                                                    <div class="position-relative width-36 width43-lg">
-                                                        <a href="single-news-1.html" class="img-opacity-hover img-overlay-70">
-                                                            <img src="img/news/news56.jpg" alt="news" class="img-fluid">
-                                                        </a>
-                                                        <div class="topic-box-top-xs">
-                                                            <div class="topic-box-sm color-cod-gray mb-20">Football</div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="media-body media-padding30 p-mb-none-child">
-                                                        <div class="post-date-dark">
-                                                            <ul>
-                                                                <li>
-                                                                    <span>by</span>
-                                                                    <a href="single-news-1.html">Jacob</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>
-                                                                        <i class="fa fa-calendar" aria-hidden="true"></i>
-                                                                    </span>May 27, 2017</li>
-                                                            </ul>
-                                                        </div>
-                                                        <h3 class="title-semibold-dark size-lg mb-15">
-                                                            <a href="single-news-1.html">Football meras on the back SepatheyTG G6 will have theytics.</a>
-                                                        </h3>
-                                                        <p>Separated they right at the coast a large ocean. A small river named
-                                                            Duden flows by their place and ...
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="tenies" style="position: absolute; display: none;">
-                                        <div class="row">
-                                            <div class="col-md-12 col-sm-6 col-12 mb-30">
-                                                <div class="media item-shadow-gray bg-body media-none--sm">
-                                                    <div class="position-relative width-36 width43-lg">
-                                                        <a href="single-news-1.html" class="img-opacity-hover img-overlay-70">
-                                                            <img src="img/news/news56.jpg" alt="news" class="img-fluid">
-                                                        </a>
-                                                        <div class="topic-box-top-xs">
-                                                            <div class="topic-box-sm color-cod-gray mb-20">Football</div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="media-body media-padding30 p-mb-none-child">
-                                                        <div class="post-date-dark">
-                                                            <ul>
-                                                                <li>
-                                                                    <span>by</span>
-                                                                    <a href="single-news-1.html">Jacob</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>
-                                                                        <i class="fa fa-calendar" aria-hidden="true"></i>
-                                                                    </span>May 27, 2017</li>
-                                                            </ul>
-                                                        </div>
-                                                        <h3 class="title-semibold-dark size-lg mb-15">
-                                                            <a href="single-news-1.html">Football meras on the back SepatheyTG G6 will have theytics.</a>
-                                                        </h3>
-                                                        <p>Separated they right at the coast a large ocean. A small river named
-                                                            Duden flows by their place and ...
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-12 col-sm-6 col-12 mb-30">
-                                                <div class="media item-shadow-gray bg-body media-none--sm">
-                                                    <div class="position-relative width-36 width43-lg">
-                                                        <a href="single-news-1.html" class="img-opacity-hover img-overlay-70">
-                                                            <img src="img/news/news53.jpg" alt="news" class="img-fluid">
-                                                        </a>
-                                                        <div class="topic-box-top-xs">
-                                                            <div class="topic-box-sm color-cod-gray mb-20">Football</div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="media-body media-padding30 p-mb-none-child">
-                                                        <div class="post-date-dark">
-                                                            <ul>
-                                                                <li>
-                                                                    <span>by</span>
-                                                                    <a href="single-news-1.html">Jacob</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>
-                                                                        <i class="fa fa-calendar" aria-hidden="true"></i>
-                                                                    </span>May 27, 2017</li>
-                                                            </ul>
-                                                        </div>
-                                                        <h3 class="title-semibold-dark size-lg mb-15">
-                                                            <a href="single-news-1.html">Football meras on the back SepatheyTG G6 will have theytics.</a>
-                                                        </h3>
-                                                        <p>Separated they right at the coast a large ocean. A small river named
-                                                            Duden flows by their place and ...
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-12 col-sm-6 col-12 mb-30">
-                                                <div class="media item-shadow-gray bg-body media-none--sm">
-                                                    <div class="position-relative width-36 width43-lg">
-                                                        <a href="single-news-1.html" class="img-opacity-hover img-overlay-70">
-                                                            <img src="img/news/news54.jpg" alt="news" class="img-fluid">
-                                                        </a>
-                                                        <div class="topic-box-top-xs">
-                                                            <div class="topic-box-sm color-cod-gray mb-20">Diving</div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="media-body media-padding30 p-mb-none-child">
-                                                        <div class="post-date-dark">
-                                                            <ul>
-                                                                <li>
-                                                                    <span>by</span>
-                                                                    <a href="single-news-1.html">Jacob</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>
-                                                                        <i class="fa fa-calendar" aria-hidden="true"></i>
-                                                                    </span>May 27, 2017</li>
-                                                            </ul>
-                                                        </div>
-                                                        <h3 class="title-semibold-dark size-lg mb-15">
-                                                            <a href="single-news-1.html">Erik Jones has day he won’t soon forget as Denny backup at Bristol</a>
-                                                        </h3>
-                                                        <p>Separated they right at the coast a large ocean. A small river named
-                                                            Duden flows by their place and ...
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-12 col-sm-6 col-12 mb-30">
-                                                <div class="media item-shadow-gray bg-body media-none--sm">
-                                                    <div class="position-relative width-36 width43-lg">
-                                                        <a href="single-news-1.html" class="img-opacity-hover img-overlay-70">
-                                                            <img src="img/news/news55.jpg" alt="news" class="img-fluid">
-                                                        </a>
-                                                        <div class="topic-box-top-xs">
-                                                            <div class="topic-box-sm color-cod-gray mb-20">Cycling</div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="media-body media-padding30 p-mb-none-child">
-                                                        <div class="post-date-dark">
-                                                            <ul>
-                                                                <li>
-                                                                    <span>by</span>
-                                                                    <a href="single-news-1.html">Jacob</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>
-                                                                        <i class="fa fa-calendar" aria-hidden="true"></i>
-                                                                    </span>May 27, 2017</li>
-                                                            </ul>
-                                                        </div>
-                                                        <h3 class="title-semibold-dark size-lg mb-15">
-                                                            <a href="single-news-1.html">A taste of what we like this week at CookA like this current
-                                                                week
-                                                            </a>
-                                                        </h3>
-                                                        <p>Separatede in the coast of the a ocean. A small river named Duden
-                                                            flows by their place and ...
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="cycling" style="position: absolute; display: none;">
-                                        <div class="row">
-                                            <div class="col-md-12 col-sm-6 col-12 mb-30">
-                                                <div class="media item-shadow-gray bg-body media-none--sm">
-                                                    <div class="position-relative width-36 width43-lg">
-                                                        <a href="single-news-1.html" class="img-opacity-hover img-overlay-70">
-                                                            <img src="img/news/news55.jpg" alt="news" class="img-fluid">
-                                                        </a>
-                                                        <div class="topic-box-top-xs">
-                                                            <div class="topic-box-sm color-cod-gray mb-20">Cycling</div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="media-body media-padding30 p-mb-none-child">
-                                                        <div class="post-date-dark">
-                                                            <ul>
-                                                                <li>
-                                                                    <span>by</span>
-                                                                    <a href="single-news-1.html">Jacob</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>
-                                                                        <i class="fa fa-calendar" aria-hidden="true"></i>
-                                                                    </span>May 27, 2017</li>
-                                                            </ul>
-                                                        </div>
-                                                        <h3 class="title-semibold-dark size-lg mb-15">
-                                                            <a href="single-news-1.html">A taste of what we like this week at CookA like this current
-                                                                week
-                                                            </a>
-                                                        </h3>
-                                                        <p>Separatede in the coast of the a ocean. A small river named Duden
-                                                            flows by their place and ...
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-12 col-sm-6 col-12 mb-30">
-                                                <div class="media item-shadow-gray bg-body media-none--sm">
-                                                    <div class="position-relative width-36 width43-lg">
-                                                        <a href="single-news-1.html" class="img-opacity-hover img-overlay-70">
-                                                            <img src="img/news/news53.jpg" alt="news" class="img-fluid">
-                                                        </a>
-                                                        <div class="topic-box-top-xs">
-                                                            <div class="topic-box-sm color-cod-gray mb-20">Football</div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="media-body media-padding30 p-mb-none-child">
-                                                        <div class="post-date-dark">
-                                                            <ul>
-                                                                <li>
-                                                                    <span>by</span>
-                                                                    <a href="single-news-1.html">Jacob</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>
-                                                                        <i class="fa fa-calendar" aria-hidden="true"></i>
-                                                                    </span>May 27, 2017</li>
-                                                            </ul>
-                                                        </div>
-                                                        <h3 class="title-semibold-dark size-lg mb-15">
-                                                            <a href="single-news-1.html">Football meras on the back SepatheyTG G6 will have theytics.</a>
-                                                        </h3>
-                                                        <p>Separated they right at the coast a large ocean. A small river named
-                                                            Duden flows by their place and ...
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-12 col-sm-6 col-12 mb-30">
-                                                <div class="media item-shadow-gray bg-body media-none--sm">
-                                                    <div class="position-relative width-36 width43-lg">
-                                                        <a href="single-news-1.html" class="img-opacity-hover img-overlay-70">
-                                                            <img src="img/news/news54.jpg" alt="news" class="img-fluid">
-                                                        </a>
-                                                        <div class="topic-box-top-xs">
-                                                            <div class="topic-box-sm color-cod-gray mb-20">Diving</div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="media-body media-padding30 p-mb-none-child">
-                                                        <div class="post-date-dark">
-                                                            <ul>
-                                                                <li>
-                                                                    <span>by</span>
-                                                                    <a href="single-news-1.html">Jacob</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>
-                                                                        <i class="fa fa-calendar" aria-hidden="true"></i>
-                                                                    </span>May 27, 2017</li>
-                                                            </ul>
-                                                        </div>
-                                                        <h3 class="title-semibold-dark size-lg mb-15">
-                                                            <a href="single-news-1.html">Erik Jones has day he won’t soon forget as Denny backup at Bristol</a>
-                                                        </h3>
-                                                        <p>Separated they right at the coast a large ocean. A small river named
-                                                            Duden flows by their place and ...
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-12 col-sm-6 col-12 mb-30">
-                                                <div class="media item-shadow-gray bg-body media-none--sm">
-                                                    <div class="position-relative width-36 width43-lg">
-                                                        <a href="single-news-1.html" class="img-opacity-hover img-overlay-70">
-                                                            <img src="img/news/news56.jpg" alt="news" class="img-fluid">
-                                                        </a>
-                                                        <div class="topic-box-top-xs">
-                                                            <div class="topic-box-sm color-cod-gray mb-20">Football</div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="media-body media-padding30 p-mb-none-child">
-                                                        <div class="post-date-dark">
-                                                            <ul>
-                                                                <li>
-                                                                    <span>by</span>
-                                                                    <a href="single-news-1.html">Jacob</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>
-                                                                        <i class="fa fa-calendar" aria-hidden="true"></i>
-                                                                    </span>May 27, 2017</li>
-                                                            </ul>
-                                                        </div>
-                                                        <h3 class="title-semibold-dark size-lg mb-15">
-                                                            <a href="single-news-1.html">Football meras on the back SepatheyTG G6 will have theytics.</a>
-                                                        </h3>
-                                                        <p>Separated they right at the coast a large ocean. A small river named
-                                                            Duden flows by their place and ...
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="gadget" style="position: absolute; display: none;">
-                                        <div class="row">
-                                            <div class="col-md-12 col-sm-6 col-12 mb-30">
-                                                <div class="media item-shadow-gray bg-body media-none--sm">
-                                                    <div class="position-relative width-36 width43-lg">
-                                                        <a href="single-news-1.html" class="img-opacity-hover img-overlay-70">
-                                                            <img src="img/news/news54.jpg" alt="news" class="img-fluid">
-                                                        </a>
-                                                        <div class="topic-box-top-xs">
-                                                            <div class="topic-box-sm color-cod-gray mb-20">Diving</div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="media-body media-padding30 p-mb-none-child">
-                                                        <div class="post-date-dark">
-                                                            <ul>
-                                                                <li>
-                                                                    <span>by</span>
-                                                                    <a href="single-news-1.html">Jacob</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>
-                                                                        <i class="fa fa-calendar" aria-hidden="true"></i>
-                                                                    </span>May 27, 2017</li>
-                                                            </ul>
-                                                        </div>
-                                                        <h3 class="title-semibold-dark size-lg mb-15">
-                                                            <a href="single-news-1.html">Erik Jones has day he won’t soon forget as Denny backup at Bristol</a>
-                                                        </h3>
-                                                        <p>Separated they right at the coast a large ocean. A small river named
-                                                            Duden flows by their place and ...
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-12 col-sm-6 col-12 mb-30">
-                                                <div class="media item-shadow-gray bg-body media-none--sm">
-                                                    <div class="position-relative width-36 width43-lg">
-                                                        <a href="single-news-1.html" class="img-opacity-hover img-overlay-70">
-                                                            <img src="img/news/news53.jpg" alt="news" class="img-fluid">
-                                                        </a>
-                                                        <div class="topic-box-top-xs">
-                                                            <div class="topic-box-sm color-cod-gray mb-20">Football</div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="media-body media-padding30 p-mb-none-child">
-                                                        <div class="post-date-dark">
-                                                            <ul>
-                                                                <li>
-                                                                    <span>by</span>
-                                                                    <a href="single-news-1.html">Jacob</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>
-                                                                        <i class="fa fa-calendar" aria-hidden="true"></i>
-                                                                    </span>May 27, 2017</li>
-                                                            </ul>
-                                                        </div>
-                                                        <h3 class="title-semibold-dark size-lg mb-15">
-                                                            <a href="single-news-1.html">Football meras on the back SepatheyTG G6 will have theytics.</a>
-                                                        </h3>
-                                                        <p>Separated they right at the coast a large ocean. A small river named
-                                                            Duden flows by their place and ...
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-12 col-sm-6 col-12 mb-30">
-                                                <div class="media item-shadow-gray bg-body media-none--sm">
-                                                    <div class="position-relative width-36 width43-lg">
-                                                        <a href="single-news-1.html" class="img-opacity-hover img-overlay-70">
-                                                            <img src="img/news/news55.jpg" alt="news" class="img-fluid">
-                                                        </a>
-                                                        <div class="topic-box-top-xs">
-                                                            <div class="topic-box-sm color-cod-gray mb-20">Cycling</div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="media-body media-padding30 p-mb-none-child">
-                                                        <div class="post-date-dark">
-                                                            <ul>
-                                                                <li>
-                                                                    <span>by</span>
-                                                                    <a href="single-news-1.html">Jacob</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>
-                                                                        <i class="fa fa-calendar" aria-hidden="true"></i>
-                                                                    </span>May 27, 2017</li>
-                                                            </ul>
-                                                        </div>
-                                                        <h3 class="title-semibold-dark size-lg mb-15">
-                                                            <a href="single-news-1.html">A taste of what we like this week at CookA like this current
-                                                                week
-                                                            </a>
-                                                        </h3>
-                                                        <p>Separatede in the coast of the a ocean. A small river named Duden
-                                                            flows by their place and ...
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-12 col-sm-6 col-12 mb-30">
-                                                <div class="media item-shadow-gray bg-body media-none--sm">
-                                                    <div class="position-relative width-36 width43-lg">
-                                                        <a href="single-news-1.html" class="img-opacity-hover img-overlay-70">
-                                                            <img src="img/news/news56.jpg" alt="news" class="img-fluid">
-                                                        </a>
-                                                        <div class="topic-box-top-xs">
-                                                            <div class="topic-box-sm color-cod-gray mb-20">Football</div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="media-body media-padding30 p-mb-none-child">
-                                                        <div class="post-date-dark">
-                                                            <ul>
-                                                                <li>
-                                                                    <span>by</span>
-                                                                    <a href="single-news-1.html">Jacob</a>
-                                                                </li>
-                                                                <li>
-                                                                    <span>
-                                                                        <i class="fa fa-calendar" aria-hidden="true"></i>
-                                                                    </span>May 27, 2017</li>
-                                                            </ul>
-                                                        </div>
-                                                        <h3 class="title-semibold-dark size-lg mb-15">
-                                                            <a href="single-news-1.html">Football meras on the back SepatheyTG G6 will have theytics.</a>
-                                                        </h3>
-                                                        <p>Separated they right at the coast a large ocean. A small river named
-                                                            Duden flows by their place and ...
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+
                                 </div>
                             </div>
                         </div>
@@ -1715,7 +1150,7 @@ frameborder="0" allowfullscreen></iframe>
                                 <div class="d-inline-block">
                                     <div class="media mb30-list bg-body">
                                         <a class="img-opacity-hover" href="single-news-1.html">
-                                            <img src="img/news/news57.jpg" alt="news" class="img-fluid">
+                                            <img src="<?php echo get_template_directory_uri() ?>/img/noticias/news72.jpg" alt="news" class="img-fluid">
                                         </a>
                                         <div class="media-body media-padding15">
                                             <div class="post-date-dark">
@@ -1733,7 +1168,7 @@ frameborder="0" allowfullscreen></iframe>
                                     </div>
                                     <div class="media mb30-list bg-body">
                                         <a class="img-opacity-hover" href="single-news-2.html">
-                                            <img src="img/news/news58.jpg" alt="news" class="img-fluid">
+                                            <img src="<?php echo get_template_directory_uri() ?>/img/noticias/news72.jpg" alt="news" class="img-fluid">
                                         </a>
                                         <div class="media-body media-padding15">
                                             <div class="post-date-dark">
@@ -1751,7 +1186,7 @@ frameborder="0" allowfullscreen></iframe>
                                     </div>
                                     <div class="media mb30-list bg-body">
                                         <a class="img-opacity-hover" href="single-news-3.html">
-                                            <img src="img/news/news59.jpg" alt="news" class="img-fluid">
+                                            <img src="<?php echo get_template_directory_uri() ?>/img/noticias/news72.jpg" alt="news" class="img-fluid">
                                         </a>
                                         <div class="media-body media-padding15">
                                             <div class="post-date-dark">

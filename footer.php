@@ -1,19 +1,34 @@
-	<footer id="colophon" class="site-footer">
-		<div class="site-info">
-			<a href="<?php // echo esc_url( __( 'https://wordpress.org/', 'estadaoalagoas' ) ); ?>">
-				<?php
-				/* translators: %s: CMS name, i.e. WordPress. */
-			//	printf( esc_html__( 'Proudly powered by %s', 'estadaoalagoas' ), 'WordPress' );
-				?>
-			</a>
-			<span class="sep"> | </span>
-				<?php
-				/* translators: 1: Theme name, 2: Theme author. */
-			//	printf( esc_html__( 'Theme: %1$s by %2$s.', 'estadaoalagoas' ), 'estadaoalagoas', '<a href="http://interactivemonkey.com.br">Interactive MOnkey</a>' );
-				?>
-		</div><!-- .site-info -->
-	</footer><!-- #colophon -->
+ <!-- Footer Area Start Here -->
+            <footer>
 
+                <div class="footer-area-bottom">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-12 text-center">
+                                <a href="index.html" class="footer-logo img-fluid">
+                                    <!-- <img src="img/logo.png" alt="logo" class="img-fluid"> -->
+                                    <?php the_custom_logo(); ?>
+                                </a>
+                                <ul class="footer-social" style="margin-top:40px">
+                                    <li>
+                                        <a href="#" title="facebook">
+                                            <i class="fab fa-facebook" aria-hidden="true"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#" title="twitter">
+                                            <i class="fab fa-twitter" aria-hidden="true"></i>
+                                        </a>
+                                    </li>
+
+                                </ul>
+                                <p>© 2020 Estadão Alagoas. Todos os direitos reservados</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+            <!-- Footer Area End Here -->
 
 <?php wp_footer(); ?>
 
